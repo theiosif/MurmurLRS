@@ -61,10 +61,6 @@ No. Both TX and RX must run MurmurLRS. You cannot mix MurmurLRS and stock ELRS d
 
 Everything ELRS supports -- ESP32, ESP8285, STM32 targets, 900 MHz and 2.4 GHz. Same radios, same modules.
 
-### Is this a fork because somebody got mad?
-
-No drama. ELRS is an incredible project. We just want encryption and they decided it wasn't for them. Fair enough.
-
 ## Status
 
 **Beta -- testers needed.**
